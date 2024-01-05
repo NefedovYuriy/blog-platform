@@ -1,1 +1,1 @@
-https://github.com/NefedovYuriy/BlogPlattform/tree/main
+https://blog-platform-xi-nine.vercel.app/
